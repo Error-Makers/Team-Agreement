@@ -9,7 +9,7 @@ Team Members:
 - Obeida Akilan
 - Salam Mustafa
 - Hala Al-Masharfeh
-- Nedal Al-Qaisi
+
 
 ### Overview:
 
