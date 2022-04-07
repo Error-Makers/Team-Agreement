@@ -1,3 +1,0 @@
-# communication-plan
-
-test
